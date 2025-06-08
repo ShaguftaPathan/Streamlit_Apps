@@ -1,4 +1,4 @@
-My Python streamlit projects!
+My Python streamlit project! <a href= "https://shaguftapathan.github.io/Streamlit_Apps/">Click Here!</a>
 
 
 # Sales Streamlit Dashboard
@@ -19,7 +19,7 @@ A sleek, interactive sales dashboard built using **Streamlit** and **Plotly**, d
 
 # Preview
 
-![Dashboard Screenshot](images/Image.png)
+![](/Image.png)
 
 ---
 
